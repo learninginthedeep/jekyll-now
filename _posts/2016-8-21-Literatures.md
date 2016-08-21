@@ -2,14 +2,15 @@
 layout: post
 title: 8월 4주차 읽을거리
 ---
-# 8월 4주차 읽을거리   
+
+  
 연세대학교 인공지능스터디 8월 4주차 읽을거리입니다. 한번 쭉 훑어보고 와주세요!   
 
 
 ## Numpy 관련 자료
 Stanford 대학교에서 열린 강의 중에서Convolutional Neural Networks의 바이블 강의 CS231의 인트로덕션 강의자료입니다. 대학교에서 이런 강의가 열리다니 해외로 유학을 가야만 할 것 같은 기분이 드네요. 더불어 훗날 CS231 인강은 함께 들어도 좋을 것 같습니다. 아직 저도 못들었으니까요.   
+
 > #### 강좌 링크 
-> 
 > [cs231 Numpy 튜토리얼 강의자료](http://cs231n.github.io/python-numpy-tutorial/)   
 > [한글 번역](http://ishuca.tistory.com/entry/Python-Numpy-Tutorial-2-Numpy)   
 
