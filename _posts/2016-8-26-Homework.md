@@ -15,7 +15,7 @@ python pandas 강의입니다. csv 데이터를 다루기위해 사용하는 경
 
 ## 읽을거리 읽기
 
-위의 것들과 더불어 [읽을거리]({% link _posts/2016-08-21-Literatures.md %})까지 읽어오시는게 이번주 과제입니다^-^ 
+위의 것들과 더불어 [읽을거리](https://learninginthedeep.github.io/Literatures/)까지 읽어오시는게 이번주 과제입니다^-^ 
 다음시간에 봅시다~~
 
 
